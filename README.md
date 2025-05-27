@@ -1,6 +1,6 @@
 # Git cheatsheet
 
-> Installation guide on git-scm.com
+> [Installation guide](git-scm.com)
 
 ## CLI commands
 1. To check version of git installed 
