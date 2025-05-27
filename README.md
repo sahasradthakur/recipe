@@ -72,5 +72,18 @@ git reset current~<relative_number_before_current_tag>
 git revert HEAD
 ```
 
+14. To create a remote repository and connect to local repository
+```
+git remote add origin <HTTPS_web_url_of_remote_repository>
+git branch -M main
+git push -u origin main
+```
+
+15. To clone remote repositories to local machine
+```
+git clone <HTTPS_web_url_of_remote_repository>
+
+```
+
 
 
