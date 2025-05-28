@@ -1,7 +1,6 @@
 # Git cheatsheet
 
-> [Installation guide](git-scm.com)
-<br>
+> [Installation guide](git-scm.com)<br>
 > [Open the cheatsheet](git-cheat-sheet-education.pdf)
 
 ## CLI commands
